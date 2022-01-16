@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09f5e924.chunk.css",
+    "main.js": "/static/js/main.a25a845b.chunk.js",
+    "main.js.map": "/static/js/main.a25a845b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d05d419.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d05d419.js.map",
+    "static/css/2.437d98bc.chunk.css": "/static/css/2.437d98bc.chunk.css",
+    "static/js/2.53c84123.chunk.js": "/static/js/2.53c84123.chunk.js",
+    "static/js/2.53c84123.chunk.js.map": "/static/js/2.53c84123.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ab7de871cf85f2dcff2e8d1b3a655ab0.js": "/precache-manifest.ab7de871cf85f2dcff2e8d1b3a655ab0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.437d98bc.chunk.css.map": "/static/css/2.437d98bc.chunk.css.map",
+    "static/css/main.09f5e924.chunk.css.map": "/static/css/main.09f5e924.chunk.css.map",
+    "static/js/2.53c84123.chunk.js.LICENSE.txt": "/static/js/2.53c84123.chunk.js.LICENSE.txt",
+    "static/media/Zig-Zag-1.svg": "/static/media/Zig-Zag-1.7aa249ff.svg",
+    "static/media/Zig-Zag.svg": "/static/media/Zig-Zag.cc9f2059.svg",
+    "static/media/aboutUs.jpg": "/static/media/aboutUs.f2a92931.jpg",
+    "static/media/contactUs.jpg": "/static/media/contactUs.78097e65.jpg",
+    "static/media/myDefault.jpg": "/static/media/myDefault.3cccda2c.jpg",
+    "static/media/singleProductBcg.jpeg": "/static/media/singleProductBcg.96758412.jpeg",
+    "static/media/storeBcg.jpeg": "/static/media/storeBcg.46143c2f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d05d419.js",
+    "static/css/2.437d98bc.chunk.css",
+    "static/js/2.53c84123.chunk.js",
+    "static/css/main.09f5e924.chunk.css",
+    "static/js/main.a25a845b.chunk.js"
+  ]
+}
